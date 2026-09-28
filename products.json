@@ -5,7 +5,7 @@
             "username": "Pineapple",
             "email": "pineapple@example.com",
             "des": "The pineapple (Ananas comosus) is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae. The pineapple is indigenous to South America, where it has been cultivated for many centuries. The introduction of the pineapple to Europe in the 17th century made it a significant cultural icon of luxury.",
-            "avatar_url": "https://unsplash.com/fr/photos/un-petit-garcon-a-la-chemise-jaune-et-aux-cheveux-bruns-wlPg0r90CB0?w=600&q=70&fit=crop",
+            "avatar_url": "https://unsplash.com/fr/photos/un-petit-garcon-a-la-chemise-jaune-et-aux-cheveux-bruns-wlPg0r90CB0",
             "hobby": "Growing in tropical plantations"
         },
         {
@@ -13,7 +13,7 @@
             "username": "Cherry",
             "email": "cherry@example.com",
             "des": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit). Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus.",
-            "avatar_url": "https://i.pravatar.cc/300?img=22?w=600&q=70&fit=crop",
+            "avatar_url": "https://unsplash.com/fr/photos/un-personnage-de-dessin-anime-avec-des-lunettes-et-une-cravate-rose-L4Ukbs7zxXg",
             "hobby": "Blossoming in spring"
         },
         {
