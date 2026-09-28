@@ -1,84 +1,84 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "username": "Pineapple",
-      "email": "pineapple@example.com",
-      "des": "The pineapple (Ananas comosus) is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae. The pineapple is indigenous to South America, where it has been cultivated for many centuries. The introduction of the pineapple to Europe in the 17th century made it a significant cultural icon of luxury.",
-      "avatar_url": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba",
-      "hobby": "Growing in tropical plantations"
-    },
-    {
-      "id": 2,
-      "username": "Cherry",
-      "email": "cherry@example.com",
-      "des": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit). Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus.",
-      "avatar_url": "https://images.unsplash.com/photo-1528821128474-27f963b062bf",
-      "hobby": "Blossoming in spring"
-    },
-    {
-      "id": 3,
-      "username": "Orange",
-      "email": "orange@example.com",
-      "des": "Orange",
-      "avatar_url": "https://images.unsplash.com/photo-1552841847-0e031d33a283",
-      "hobby": "Staying juicy"
-    },
-    {
-      "id": 4,
-      "username": "Avocado",
-      "email": "avocado@example.com",
-      "des": "Avocado",
-      "avatar_url": "https://images.unsplash.com/photo-1519162808019-7de1683fa2ad",
-      "hobby": "Making toast better"
-    },
-    {
-      "id": 5,
-      "username": "Strawberry",
-      "email": "strawberry@example.com",
-      "des": "Strawberry",
-      "avatar_url": "https://images.unsplash.com/photo-1560155069-ad79768f2666",
-      "hobby": "Growing in the garden"
-    },
-    {
-      "id": 6,
-      "username": "Apple",
-      "email": "apple@example.com",
-      "des": "Apple",
-      "avatar_url": "https://images.unsplash.com/photo-1600423115367-87ea7661688f",
-      "hobby": "Keeping the doctor away"
-    },
-    {
-      "id": 7,
-      "username": "Pomegranate",
-      "email": "pomegranate@example.com",
-      "des": "Pomegranate",
-      "avatar_url": "https://images.unsplash.com/photo-1530730459653-e0edd4c6072e",
-      "hobby": "Collecting seeds"
-    },
-    {
-      "id": 8,
-      "username": "Papaya",
-      "email": "papaya@example.com",
-      "des": "Papaya",
-      "avatar_url": "https://images.unsplash.com/photo-1517282009859-f000ec3b26fe",
-      "hobby": "Ripening slowly"
-    },
-    {
-      "id": 9,
-      "username": "Pear",
-      "email": "pear@example.com",
-      "des": "Pear",
-      "avatar_url": "https://images.unsplash.com/photo-1601876819102-99560f772713",
-      "hobby": "Hanging on trees"
-    },
-    {
-      "id": 10,
-      "username": "Blueberry",
-      "email": "blueberry@example.com",
-      "des": "Blueberry",
-      "avatar_url": "https://images.unsplash.com/photo-1600046438510-46961a84f4b2",
-      "hobby": "Growing in clusters"
-    }
-  ]
+    "users": [
+        {
+            "id": "1",
+            "username": "Pineapple",
+            "email": "pineapple@example.com",
+            "des": "The pineapple (Ananas comosus) is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae. The pineapple is indigenous to South America, where it has been cultivated for many centuries. The introduction of the pineapple to Europe in the 17th century made it a significant cultural icon of luxury.",
+            "avatar_url": "https:\/\/images.unsplash.com\/photo-1550258987-190a2d41a8ba?w=600&q=70&fit=crop",
+            "hobby": "Growing in tropical plantations"
+        },
+        {
+            "id": "2",
+            "username": "Cherry",
+            "email": "cherry@example.com",
+            "des": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit). Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus.",
+            "avatar_url": "https:\/\/images.unsplash.com\/photo-1528821128474-27f963b062bf?w=600&q=70&fit=crop",
+            "hobby": "Blossoming in spring"
+        },
+        {
+            "id": "3",
+            "username": "Orange",
+            "email": "orange@example.com",
+            "des": "The orange is a citrus fruit, a hybrid of pomelo and mandarin, known for its bright color and juicy, sweet-tart flavor. It is one of the most widely grown fruits in the world and is famous for being rich in vitamin C.",
+            "avatar_url": "https:\/\/images.unsplash.com\/photo-1552841847-0e031d33a283?w=600&q=70&fit=crop",
+            "hobby": "Staying juicy"
+        },
+        {
+            "id": "4",
+            "username": "Avocado",
+            "email": "avocado@example.com",
+            "des": "The avocado is a creamy, nutrient-dense fruit native to south-central Mexico. Unlike most fruits it is high in healthy fats, and it is used in everything from guacamole to toast, salads and smoothies.",
+            "avatar_url": "https:\/\/images.unsplash.com\/photo-1519162808019-7de1683fa2ad?w=600&q=70&fit=crop",
+            "hobby": "Making toast better"
+        },
+        {
+            "id": "5",
+            "username": "Strawberry",
+            "email": "strawberry@example.com",
+            "des": "The strawberry is a bright red, fragrant fruit that is technically an aggregate accessory fruit, with its seeds on the outside. It is loved fresh, in jams, desserts and drinks, and is a good source of vitamin C and antioxidants.",
+            "avatar_url": "https:\/\/images.unsplash.com\/photo-1560155069-ad79768f2666?w=600&q=70&fit=crop",
+            "hobby": "Growing in the garden"
+        },
+        {
+            "id": "6",
+            "username": "Apple",
+            "email": "apple@example.com",
+            "des": "The apple is a round, crisp fruit that grows on trees in temperate climates and comes in hundreds of varieties, from sweet red to tart green. It is eaten fresh, baked into pies, or pressed into juice and cider.",
+            "avatar_url": "https:\/\/images.unsplash.com\/photo-1600423115367-87ea7661688f?w=600&q=70&fit=crop",
+            "hobby": "Keeping the doctor away"
+        },
+        {
+            "id": "7",
+            "username": "Pomegranate",
+            "email": "pomegranate@example.com",
+            "des": "The pomegranate is a ruby-red fruit filled with hundreds of juicy, edible seeds called arils. It has been grown for thousands of years in the Middle East and is prized for its sweet-tart taste and rich antioxidants.",
+            "avatar_url": "https:\/\/images.unsplash.com\/photo-1530730459653-e0edd4c6072e?w=600&q=70&fit=crop",
+            "hobby": "Collecting seeds"
+        },
+        {
+            "id": "8",
+            "username": "Papaya",
+            "email": "papaya@example.com",
+            "des": "The papaya is a tropical fruit with soft, orange flesh and a mild, sweet taste, originally from southern Mexico and Central America. It contains the enzyme papain, which helps digestion, and it is rich in vitamins A and C.",
+            "avatar_url": "https:\/\/images.unsplash.com\/photo-1517282009859-f000ec3b26fe?w=600&q=70&fit=crop",
+            "hobby": "Ripening slowly"
+        },
+        {
+            "id": "9",
+            "username": "Pear",
+            "email": "pear@example.com",
+            "des": "The pear is a bell-shaped fruit with a sweet, juicy and slightly grainy flesh. Grown in temperate regions around the world, it is enjoyed fresh, poached, baked or added to salads and desserts.",
+            "avatar_url": "https:\/\/images.unsplash.com\/photo-1601876819102-99560f772713?w=600&q=70&fit=crop",
+            "hobby": "Hanging on trees"
+        },
+        {
+            "id": "10",
+            "username": "Blueberry",
+            "email": "blueberry@example.com",
+            "des": "The blueberry is a small, dark blue berry native to North America, popular for its sweet flavor and high level of antioxidants. It is eaten fresh, dried, or in muffins, pancakes, jams and smoothies.",
+            "avatar_url": "https:\/\/images.unsplash.com\/photo-1600046438510-46961a84f4b2?w=600&q=70&fit=crop",
+            "hobby": "Growing in clusters"
+        }
+    ]
 }
